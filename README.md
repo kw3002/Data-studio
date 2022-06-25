@@ -9,6 +9,12 @@
 
 By examining whether and to what extent the increase in bank fees impacts financial inclusion, I want to contribute to the debate on the effectiveness of the cap on fees currently under consideration.
 
+# Intended audience
+・U.S. House Committee on Financial Services
+・U.S. Senate Committee on Banking, Housing, and Urban Affairs
+・Director of Consumer Financial Protection Bureau
+・Federal Reserve Board
+
 # Data
 # 1.Bank fee data
 I use survey data by Bankrate (Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"). Three types of bank cost data can be obtained from Bankrate: (1) Average monthly service fee for interest accounts, (2) Average monthly service fee for non-interest accounts, and (3) Average annual overdraft fee.
