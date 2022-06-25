@@ -34,6 +34,7 @@ Based on these data, I set these four independent variables.
 (average annual service fee for non interest accounts + average annual overdraft fee)
 
 # 2. Household income data
+Wages are also expected to have a significant impact on bank account ownership rates.　To eliminate the effect of wages, I also add changes in average household income to the independent variable, using average Before-tax family income from the Survey of Consumer Finances by Federal Reserve Board.
 
 # 3. Bank Account Holding Ratio Data
 The following two data sets were used as the bank account ownership percentage data sources.
@@ -50,7 +51,9 @@ https://www.fdic.gov/analysis/household-survey/2019report.pdf
 ・Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"
 https://www.bankrate.com/banking/checking/checking-account-survey/
 
-・
+・Board of Governors of the Federal Reserve System,"Survey of Consumer Finances"
+https://www.federalreserve.gov/econres/scf/dataviz/scf/table/#series:Before_Tax_Income;demographic:inccat;population:all;units:median
+
 ・
 ・・
 ・
