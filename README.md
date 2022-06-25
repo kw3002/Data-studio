@@ -17,8 +17,8 @@ By examining whether and to what extent the increase in bank fees impacts financ
 ・Federal Reserve Board
 
 # Data
-# 1.Bank fee data
-I use survey data by Bankrate (Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"). Three types of bank cost data can be obtained from Bankrate: (1) average monthly service fee for interest accounts, (2) Average monthly service fee for non-interest accounts, (3) and (4) Average annual overdraft fee.
+# 1. Bank fee data
+I use survey data by Bankrate (Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"). Three types of bank cost data can be obtained from Bankrate: (1) average monthly service fee for interest accounts, (2) Average monthly service fee for non-interest accounts, (3) and (4) Average annual overdraft fee. The average monthly fee for interest-bearing accounts rose to $16.35 in 2021 from $12.55 in 2009. And that for non-interest checking account roses to $5.08 from $1.77 in 2009. In addition, the average annual overdraft fee increased to $33.58 in 2021 from $29.58 in 2009.
 
 Based on these data, I set these four independent variables.
 (ⅰ) Average annual increase in the average annual cost of maintaining a interest bank account
@@ -33,8 +33,9 @@ Based on these data, I set these four independent variables.
 (ⅳ) Average annual increase in the cost of using a non interest bank account
 (average annual service fee for non interest accounts + average annual overdraft fee)
 
+# 2. Household income data
 
-2.Bank Account Holding Ratio Data
+# 3. Bank Account Holding Ratio Data
 The following two data sets were used as the bank account ownership percentage data sources.
 
 ・FDIC Survey, How America Banks: Household Use of Banking and Financial Services
@@ -42,9 +43,13 @@ The following two data sets were used as the bank account ownership percentage d
 # Source
 ・Joseph G. Haubrich and Tristan Young, "Trends in the Noninterest Income of Banks"
 https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2019-economic-commentaries/ec-201914-trends-in-the-noninterest-income-of-banks.aspx
+
 ・Federal Deposit Insurance Corporation, "How America Banks: Household Use of Banking and Financial Services 2019 FDIC Survey"
 https://www.fdic.gov/analysis/household-survey/2019report.pdf
-・
+
+・Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"
+https://www.bankrate.com/banking/checking/checking-account-survey/
+
 ・
 ・
 ・・
