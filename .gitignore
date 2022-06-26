@@ -34,9 +34,6 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 
-# my files
-Data-studio.Rproj
-
 *.knit.md
 
 # R Environment Variables
