@@ -17,37 +17,43 @@ The Consumer Financial Protection Bureau reported in its 2022 report that overdr
 
 # Data
 # 1. Bank fee data
-I use survey data by Bankrate (Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"). Three types of bank cost data can be obtained from Bankrate: (1) average monthly service fee for interest accounts, (2) Average monthly service fee for non-interest accounts, (3) and (4) Average annual overdraft fee. The average monthly fee for interest-bearing accounts rose to $16.35 in 2021 from $12.55 in 2009. And that for non-interest checking account roses to $5.08 from $1.77 in 2009. In addition, the average annual overdraft fee increased to $33.58 in 2021 from $29.58 in 2009.
+I use survey data by Bankrate (Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"). Three types of bank cost data can be obtained from Bankrate: (1) average monthly service fee for interest accounts, (2) average monthly service fee for non-interest accounts and (3) average annual overdraft fee. The average monthly fee for interest-bearing accounts rose to $15.05 in 2019 from $12.55 in 2009. And that for non-interest checking account roses to $5.61 from $1.77 in 2009. In addition, the average annual overdraft fee increased to $33.36 in 2019 from $29.58 in 2009.
 
-Based on them, I set these four data as independent variables for bank account fee changes.
-(ⅰ) Average annual increase in the average annual cost of maintaining a interest bank account
+Based on them, I create four models each with the following as independent variables.
+(ⅰ) increase in the average annual cost of maintaining interest accounts from 2009 to 2019
 (average annual service fee for interest accounts only)
 
-(ⅱ) Average annual increase in the average annual cost of maintaining a non interest bank account
+(ⅱ) increase in the average annual cost of maintaining non interest accounts from 2009 to 2019
 (average annual service fee for non interest accounts only)
 
-(ⅲ) Average annual increase in the cost of using a interest bank account
+(ⅲ) increase in the annual cost of using interest accounts from 2009 to 2019
 (average annual service fee for interest accounts + average annual overdraft fee)
 
-(ⅳ) Average annual increase in the cost of using a non interest bank account
+(ⅳ) increase in the cost of using non interest accounts from 2009 to 2019
 (average annual service fee for non interest accounts + average annual overdraft fee)
 
 # 2. Household income data
-Wages are also expected to have a significant impact on bank account ownership rates. To eliminate the effect of wages, I also add changes in average household income to the independent variable, using average Before-tax family income from the Survey of Consumer Finances by Federal Reserve Board.
+Wages are also expected to have a significant impact on bank account ownership rates. To omit the effect of wages, I also add changes in household income to regression equation as the independent variable, using average Before-tax family income from the Survey of Consumer Finances by Federal Reserve Board.
 
 # 3. Bank Account Holding Ratio Data
-The following two data sets were used as the bank account ownership percentage data sources.
-(1) FDIC Survey, How America Banks: Household Use of Banking and Financial Services
-(2)
+I use the FDIC Survey on Household Use of Banking and Financial Services as our source for Bank Account Holding Ratio data.This survey began in 2009 and is conducted every two years through 2019. I create two models with the following dependent variables.
+
+(ⅰ) changes in unbanked households from 2009 to 2019
+
+(ⅱ) changes in unbanked households that previously had a bank account but closed it due to cost from 2009 to 2019
+
 # Source, existing literature, research and reporting
 ・Joseph G. Haubrich and Tristan Young, "Trends in the Noninterest Income of Banks"
 https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2019-economic-commentaries/ec-201914-trends-in-the-noninterest-income-of-banks.aspx
 
+・Federal Deposit Insurance Corporation, "How America Banks: Household Use of Banking and Financial Services 2019 FDIC Survey"
+https://www.fdic.gov/analysis/household-survey/2019report.pdf
+
 ・Joe Valenti, "Overdraft fees can price people out of banking"
 https://www.consumerfinance.gov/about-us/blog/overdraft-fees-can-price-people-out-of-banking/#:~:text=CFPB%20research%20has%20found%20that,overdraft%20fees%20during%20the%20year.
 
-・Federal Deposit Insurance Corporation, "How America Banks: Household Use of Banking and Financial Services 2019 FDIC Survey"
-https://www.fdic.gov/analysis/household-survey/2019report.pdf
+・Matt Egan, "Democrats relaunch crackdown on bank overdraft fees"
+https://www.cnn.com/2021/06/30/investing/bank-overdraft-fees-democrats/index.html
 
 ・Matthew Goldberg, "Survey: Free checking accounts on the rise as total ATM fees fall"
 https://www.bankrate.com/banking/checking/checking-account-survey/
@@ -55,8 +61,11 @@ https://www.bankrate.com/banking/checking/checking-account-survey/
 ・Board of Governors of the Federal Reserve System,"Survey of Consumer Finances"
 https://www.federalreserve.gov/econres/scf/dataviz/scf/table/#series:Before_Tax_Income;demographic:all;population:all;units:median
 
-
-・・
-・
-・
-
+・FDIC Survey of Household Use of Banking and Financial Services
+https://www.economicinclusion.gov/surveys/
+https://www.fdic.gov/analysis/household-survey/2009/2009appendix.pdf  
+https://www.fdic.gov/analysis/household-survey/2011/2011-unbankedreport-app-a-g.pdf
+https://www.fdic.gov/analysis/household-survey/2013/2013appendix.pdf
+https://www.fdic.gov/analysis/household-survey/2015/2015appendix.pdf
+https://www.fdic.gov/analysis/household-survey/2017/2017appendix.pdf
+https://www.fdic.gov/analysis/household-survey/2019appendix.pdf
