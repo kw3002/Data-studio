@@ -63,9 +63,15 @@ https://www.federalreserve.gov/econres/scf/dataviz/scf/table/#series:Before_Tax_
 
 ・FDIC Survey of Household Use of Banking and Financial Services
 https://www.economicinclusion.gov/surveys/
+
 https://www.fdic.gov/analysis/household-survey/2009/2009appendix.pdf  
+
 https://www.fdic.gov/analysis/household-survey/2011/2011-unbankedreport-app-a-g.pdf
+
 https://www.fdic.gov/analysis/household-survey/2013/2013appendix.pdf
+
 https://www.fdic.gov/analysis/household-survey/2015/2015appendix.pdf
+
 https://www.fdic.gov/analysis/household-survey/2017/2017appendix.pdf
+
 https://www.fdic.gov/analysis/household-survey/2019appendix.pdf
