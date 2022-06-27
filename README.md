@@ -4,8 +4,7 @@
 # Bacnground
   After the GFC, banks rely more heavily on service charges (ATM fees, income from the sales of checks, safe deposit box fees, wire transfer fees and card charges) due to the collapse in securitization fees and stricter regulations (Joseph G. Haubrich and Tristan Young, "Trends in the Noninterest Income of Banks"). The gradual increase in bank fees may have exacerbated financial inclusion by forcing low-income households to give up maintaining bank accounts. In 2019, 5.4 percent of US households were unbanked, meaning that no one in the household had a checking or savings account at a bank or credit union. Nearly one-third of them cite fees that are too high as a reason for being unbanked (Federal Deposit Insurance Corporation, "How America Banks: Household Use of Banking and Financial Services 2019 FDIC Survey"). 
 
-
-By examining whether and to what extent the increase in bank fees impacts financial inclusion, I want to contribute to the debate on the effectiveness of the cap on fees currently under consideration.
+The Consumer Financial Protection Bureau reported in its 2022 report that overdraft fees can lead to account closure (Joe Valenti, "Overdraft fees can price people out of banking"). Democrats including Carolyn Maloney are considering introducing legislation that would crack down on overdraft fees, making it illegal for banks to charge more than one fee per month (Matt Egan, "Democrats relaunch crackdown on bank overdraft fees"). By examining whether and to what extent the increase in bank fees impacts financial inclusion, I want to contribute to the debate on the effectiveness of the cap on fees currently under consideration.
 
 # Intended audience
 ・U.S. House Committee on Financial Services
@@ -44,6 +43,9 @@ The following two data sets were used as the bank account ownership percentage d
 ・Joseph G. Haubrich and Tristan Young, "Trends in the Noninterest Income of Banks"
 https://www.clevelandfed.org/en/newsroom-and-events/publications/economic-commentary/2019-economic-commentaries/ec-201914-trends-in-the-noninterest-income-of-banks.aspx
 
+・Joe Valenti, "Overdraft fees can price people out of banking"
+https://www.consumerfinance.gov/about-us/blog/overdraft-fees-can-price-people-out-of-banking/#:~:text=CFPB%20research%20has%20found%20that,overdraft%20fees%20during%20the%20year.
+
 ・Federal Deposit Insurance Corporation, "How America Banks: Household Use of Banking and Financial Services 2019 FDIC Survey"
 https://www.fdic.gov/analysis/household-survey/2019report.pdf
 
@@ -53,7 +55,7 @@ https://www.bankrate.com/banking/checking/checking-account-survey/
 ・Board of Governors of the Federal Reserve System,"Survey of Consumer Finances"
 https://www.federalreserve.gov/econres/scf/dataviz/scf/table/#series:Before_Tax_Income;demographic:all;population:all;units:median
 
-・
+
 ・・
 ・
 ・
